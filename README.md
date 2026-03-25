@@ -10,11 +10,9 @@ API RESTful para gerenciamento de livros com Node.js, Express e MongoDB.
 
 ## Como usar
 1. Clone o repositório
-2. 
-pm install
+2. npm install
 3. Configure o arquivo .env
-4. 
-pm run dev
+4. npm run dev
 
 ## Endpoints
 - GET /livros
